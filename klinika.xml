@@ -15,11 +15,11 @@
 <sets>
 <set id="kosmetolog">
 <name>Косметолог</name>
-<url>https://aura48.ru/spetsialisty</url>
+<url>https://aura48.ru/yelena-olegovna-p</url>
 </set>
 <set id="deramatovenerolog">
 <name>Дерматовенеролог</name>
-<url>https://aura48.ru/spetsialisty</url>
+<url>https://aura48.ru/yelena-olegovna-p</url>
 </set>
 </sets>
 <offers>
@@ -56,7 +56,7 @@
 <param name="Звание">Главный врач</param>
 <param name="Ссылка на профиль врача">https://aura48.ru/spetsialisty</param>
 <param name="Город клиники">г. Липецк</param>
-<param name="Адрес клиники">ул. Валентина Скороходова д. 11 нп 2</param>
+<param name="Адрес клиники">ул. Валентина Скороходова д. 11</param>
 <param name="Название клиники">Экспертная косметология в Липецке | Аура</param>
 <param name="Возможность записи">true</param>
 <!-- Возможность записаться на прием через сайт-поставщик фида -->
