@@ -20,7 +20,8 @@
       <set id="kosmetolog_svetlana"><name>Косметолог</name><url>https://aura48.ru/ayrapetova-svetlana-valeriyevna</url></set>
 </sets>
 <offers>
-
+      
+<!-- Проскурина Елена Олеговна -->
 <offer id="proskurina1" group_id="947261">
 <name>Проскурина Елена Олеговна</name>
 <url>https://aura48.ru/yelena-olegovna-p</url>
@@ -49,6 +50,7 @@
 <param name="Онлайн-расписание">true</param>
 <param name="Телефон для записи">7(474)255-81-08</param>
 
+<!-- Образование -->
 <param name="Образование - 1" unit="Организация">ГБОУ ВПО ВГМА им. Н.Н. Бурденко Минздрава России</param>
 <param name="Образование - 1" unit="Дата">2012</param>
 <param name="Образование - 1" unit="Название">Высшее образование</param>
@@ -74,6 +76,7 @@
 <param name="Образование - 5" unit="Название">Профессиональная переподготовка</param>
 <param name="Образование - 5" unit="Специализация">Косметология</param>
 
+<!-- Сертификаты -->
 <param name="Сертификат - 1" unit="Организация">АНО ДПО «Группа компаний Профи»</param>
 <param name="Сертификат - 1" unit="Дата">2020</param>
 <param name="Сертификат - 1" unit="Название">Физиотерапия</param>
@@ -86,7 +89,8 @@
 <param name="Сертификат - 3" unit="Дата">2020</param>
 <param name="Сертификат - 3" unit="Название">Косметология</param>
 </offer>
-
+      
+<!-- Ракова Александра Александровна -->
 <offer id="rakova" group_id="947262">
 <name>Ракова Александра Александровна</name>
 <url>https://aura48.ru/rakova-aleksandra-a</url>
@@ -115,6 +119,7 @@
 <param name="Онлайн-расписание">true</param>
 <param name="Телефон для записи">7(474)255-81-08</param>
 
+<!-- Образование -->
 <param name="Образование - 1" unit="Организация">Самаркандский государственный медицинский институт</param>
 <param name="Образование - 1" unit="Дата">2007</param>
 <param name="Образование - 1" unit="Название">Высшее образование</param>
@@ -135,6 +140,7 @@
 <param name="Образование - 4" unit="Название">Повышение квалификации</param>
 <param name="Образование - 4" unit="Специализация">Трихология</param>
 
+<!-- Сертификаты -->
 <param name="Сертификат - 1" unit="Организация">ФГБОУ ВО ВГМУ им. Н.Н. Бурденко</param>
 <param name="Сертификат - 1" unit="Дата">2021</param>
 <param name="Сертификат - 1" unit="Название">Дерматовенерология</param>
@@ -143,7 +149,8 @@
 <param name="Сертификат - 2" unit="Дата">2021</param>
 <param name="Сертификат - 2" unit="Название">Косметология</param>
 </offer>
-<!-- Нино Джаджанидзе -->
+      
+<!-- Джаджанидзе Нино Георгиевна -->
     <offer id="dzhadzhanidze" group_id="947263">
       <name>Джаджанидзе Нино Георгиевна</name>
       <url>https://aura48.ru/dzhadzhanidze-nino-g</url>
@@ -195,7 +202,7 @@
       <param name="Сертификат - 2" unit="Название">Косметология</param>
     </offer>
 
-        <!-- Айрапетова Светлана Валериевна -->
+<!-- Айрапетова Светлана Валериевна -->
       <offer id="ayrapetova" group_id="947264">
         <name>Айрапетова Светлана Валериевна</name>
         <url>https://aura48.ru/ayrapetova-svetlana-valeriyevna</url>
